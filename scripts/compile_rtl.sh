@@ -1,0 +1,1 @@
+iverilog rtl/bitsync.v
