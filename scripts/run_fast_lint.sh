@@ -1,2 +1,4 @@
 #!/bin/sh
-vlog -lint iverilog rtl/bitsync.v
+
+vlog -lint  rtl/bitsync.v
+sleep 6000
